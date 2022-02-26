@@ -1,0 +1,19 @@
+{
+  "name": "RoverAlarmLog",
+  "version": "1.0.0",
+  "description": "Rover alarm log scraper",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "superagent": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Charles Quinn",
+  "license": "ISC"
+}
